@@ -3,3 +3,6 @@ servers
 maven
 git
 git hub
+jenkins
+maven
+ansible
